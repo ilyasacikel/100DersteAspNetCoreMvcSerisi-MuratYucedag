@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilyas\\Documents\\GitHub\\AspNetCoreMvcEgitimKampi-MuratYucedag\\1_CoreMvcPersonel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12125BF0-1B7E-629F-2B1C-11343877B867}|CoreMvcPersonel\\CoreMvcPersonel.csproj|c:\\users\\ilyas\\documents\\github\\aspnetcoremvcegitimkampi-muratyucedag\\1_coremvcpersonel\\coremvcpersonel\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12125BF0-1B7E-629F-2B1C-11343877B867}|CoreMvcPersonel\\CoreMvcPersonel.csproj|solutionrelative:coremvcpersonel\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TestLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\AspNetCoreMvcEgitimKampi-MuratYucedag\\1_CoreMvcPersonel\\CoreMvcPersonel\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeDocumentMoniker": "CoreMvcPersonel\\Views\\Shared\\_TestLayout.cshtml",
+              "ToolTip": "C:\\Users\\Ilyas\\Documents\\GitHub\\AspNetCoreMvcEgitimKampi-MuratYucedag\\1_CoreMvcPersonel\\CoreMvcPersonel\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeToolTip": "CoreMvcPersonel\\Views\\Shared\\_TestLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T21:19:35.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

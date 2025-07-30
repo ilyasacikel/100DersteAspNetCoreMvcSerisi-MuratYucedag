@@ -1,0 +1,13 @@
+﻿@model CoreMvcDepartman.Models.Departman
+@{
+    ViewData["Title"] = "YeniDepartman";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<br />
+<form method="post">
+    @Html.Label("Departman Adı:")
+    @Html.TextBoxFor(x => x.DepartmanAd, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-primary">Departman Ekle</button>
+</form>

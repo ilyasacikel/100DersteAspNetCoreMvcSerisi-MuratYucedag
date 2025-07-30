@@ -1,0 +1,25 @@
+﻿@model CoreMvcDepartman.Models.Personel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<br />
+<form method="post">
+    @Html.Label("Personel ID:")
+    @Html.TextBoxFor(x => x.PersonelId, new { @class = "form-control" })
+    <br />
+    @Html.Label("Personel Adı:")
+    @Html.TextBoxFor(x => x.Ad, new { @class = "form-control" })
+    <br />
+    @Html.Label("Personel Soyadı:")
+    @Html.TextBoxFor(x => x.Soyad, new { @class = "form-control" })
+    <br />
+    @Html.Label("Personel Şehri:")
+    @Html.TextBoxFor(x => x.Sehir, new { @class = "form-control" })
+    <br />
+    @Html.Label("Personel Departmanı:")
+    @Html.DropDownListFor(x=> x.DepartmanId, (List<SelectListItem>)ViewBag.departmanlar, new {@class = "form-control"})
+    <br />
+    <button class="btn btn-primary">Personeli Güncelle</button>
+</form>

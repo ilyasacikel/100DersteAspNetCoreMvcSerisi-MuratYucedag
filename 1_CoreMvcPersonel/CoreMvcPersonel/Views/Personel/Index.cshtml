@@ -1,0 +1,33 @@
+﻿@model List<CoreMvcDepartman.Models.Personel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>Departman</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var deger in Model)
+    {
+        <tr>
+            <td>@deger.PersonelId</td>
+            <td>@deger.Ad</td>
+            <td>@deger.Soyad</td>
+            <td>@deger.Sehir</td>
+            <td>@deger.Departman.DepartmanAd</td>
+            <td><a href="/Personel/PersonelSil/@deger.PersonelId" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Personel/PersonelGuncelle/@deger.PersonelId" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+</table>
+<a href="/Personel/YeniPersonel/" class="btn btn-primary">Yeni Personel</a>
+
+
