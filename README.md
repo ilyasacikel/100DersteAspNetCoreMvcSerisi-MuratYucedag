@@ -114,3 +114,13 @@ Bu projeler, ASP.NET Core MVC yapısını öğrenme sürecimin farklı aşamalar
 
 🎓 **Murat Yücedağ** – [100 Derste ASP.NET Core MVC YouTube Serisi](https://youtube.com/playlist?list=PLKnjBHu2xXNOld1njNVQ5fk0e12oqiWc8&si=EI6iLpfe-yfMRjYu)
 
+---
+
+## Projeden Bazı Ekran Görüntüleri
+
+<img width="1828" height="2303" alt="image" src="https://github.com/user-attachments/assets/8b8cd738-d4ea-4c2b-90ff-fb0c821e0b61" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b7ba758a-bebb-4427-b76b-a353913d20ab" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/99ca76a6-f675-47e4-afc6-5350ce2fbd94" />
+
+
+
