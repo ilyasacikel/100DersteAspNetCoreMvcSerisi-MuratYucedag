@@ -1,6 +1,6 @@
 # ASP.NET Core MVC Temel Projeleri
 
-> ℹ️ Bu projede görünen HTML/CSS/JS oranları yanıltıcı olabilir. Ayrıntılı not için dosyanın sonundaki \"Geliştirici Notu\" kısmına bakabilirsiniz.
+> ℹ️ Bu projede Github'ta görünen HTML/CSS/JS oranları yanıltıcıdır. Ayrıntılı not için dosyanın sonundaki \"Geliştirici Notu\" kısmına bakabilirsiniz.
 
 Bu repoda, **ASP.NET Core MVC** teknolojisini adım adım öğrenmek amacıyla geliştirilmiş iki adet temel seviye proje yer almaktadır. Bu projeler, başlangıçtan orta seviyeye kadar ASP.NET Core MVC'nin sıkça kullanılan özelliklerini kapsamaktadır. Geliştirme süreci boyunca hem teorik bilgilerin pratiğe dökülmesi hem de yazılım mimarisi açısından doğru yaklaşımların uygulanması hedeflenmiştir.
 
